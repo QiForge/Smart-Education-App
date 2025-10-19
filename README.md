@@ -1,7 +1,128 @@
-#🎓 Smart-Education-System
-##👨‍💻 A Mini Project by Team Dragon (CSE B.Tech) under QiForge Organisation
+# 🎓 Smart Education System
 
-#📘 Overview
-The SmartEdu System Dashboard is a responsive and interactive web application designed to manage and visualize academic and administrative data for students in an educational platform. It combines features for browsing courses, taking quizzes, tracking progress, and handling assignments, all within a clean, intuitive UI. Built with HTML, CSS, basic JavaScript, this project provides a modular & user-centric frontend for seamless learning experiences.
+## 👨‍💻 A Mini Project by **Team Dragon (CSE B.Tech)**  
+### under **QiForge Organisation**
 
-This project emphasizes collaborative development, clean design, and core skills in HTML, CSS, Javascript.
+---
+
+## 📘 Overview
+
+The **Smart Education System Dashboard** is a responsive and interactive web application designed to streamline and visualize academic and administrative data for students in an educational platform.
+
+It combines features for:
+- 📚 Browsing and managing courses  
+- 🧠 Taking quizzes and tracking performance  
+- 🗂️ Managing assignments and submissions  
+- 📊 Viewing academic progress in a dashboard interface  
+
+All built around a **clean, modular, and intuitive UI** using **HTML, CSS, and JavaScript**.
+
+---
+
+## 🚀 Features
+
+- **Responsive Dashboard Layout** – Works across desktop and mobile.  
+- **Modular UI Design** – Each section (courses, assignments, etc.) is self-contained.  
+- **Interactive Components** – Built purely with vanilla JS for quizzes and progress tracking.  
+- **Student-Friendly Interface** – Minimal distractions, easy navigation.  
+- **Future-Ready** – Can be extended to connect with backend or APIs later.
+
+---
+
+## 🧱 Tech Stack
+
+| Layer | Technologies Used |
+|-------|--------------------|
+| **Frontend** | HTML5, CSS3, JavaScript (Vanilla) |
+| **Version Control** | Git + GitHub |
+| **Organization** | QiForge |
+| **Team** | Team Dragon |
+
+---
+
+## 📂 Project Structure
+
+```
+Smart-Education-App/
+├── LICENSE
+├── README.md
+├── Team.md
+├── css/
+│   ├── alert.css
+│   ├── attendance.css
+│   ├── dashboard.css
+│   ├── index.css
+│   ├── planner.css
+│   ├── quiz.css
+│   └── signup.css
+├── html/
+│   ├── alert.html
+│   ├── attendance.html
+│   ├── dashboard.html
+│   ├── index.html
+│   ├── planner.html
+│   ├── quiz.html
+│   └── signup.html
+└── js/
+    ├── alert.js
+    ├── attendance.js
+    ├── dashboard.js
+    ├── index.js
+    ├── planner.js
+    ├── quiz.js
+    └── signup.js
+
+```
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo-name>.git
+   ```
+2. Open the project folder:
+   ```bash
+   cd Smart-Education-System
+   ```
+3. Run using VS Code Live Server or open `index.html` directly in your browser.
+
+---
+
+## 👥 Team Dragon — QiForge
+
+| Member | Role |
+|--------|------|
+| **Krish Kumar** | Team Leader / Frontend Developer |
+| **Amit Chauhan** | UI Developer |
+| **Manish** | Design and Layout |
+| **Abhisek** | Documentation & Testing |
+
+---
+
+## 🌐 Part of QiForge Organisation
+
+**QiForge** is a student-led tech organization focused on collaborative learning and innovation.  
+Visit: [qiforge.site](https://qiforge.site)
+
+---
+
+## 🧩 License
+
+Released under the **MIT License**.  
+Feel free to fork, learn, and build upon this project.
+
+---
+
+## 💬 Contribute
+
+Pull requests are welcome!  
+If you have ideas for improving dashboard interactivity or adding new modules, feel free to open an issue or submit a PR.
+
+---
+
+### 💜 Credits
+- **Developed by:** Team Dragon  
+- **Organization:** QiForge  
+- **Guided by:** Yogesh Kumar Mallik & Krish Kumar  
