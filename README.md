@@ -21,7 +21,7 @@ All built around a **clean, modular, and intuitive UI** using **HTML, CSS, and J
 
 ## 🚀 Features
 
-- **Responsive Dashboard Layout** – Works across desktop and mobile.  
+- **Responsive Dashboard Layout** – Works across desktop and mobile(in future).  
 - **Modular UI Design** – Each section (courses, assignments, etc.) is self-contained.  
 - **Interactive Components** – Built purely with vanilla JS for quizzes and progress tracking.  
 - **Student-Friendly Interface** – Minimal distractions, easy navigation.  
@@ -44,17 +44,6 @@ All built around a **clean, modular, and intuitive UI** using **HTML, CSS, and J
 
 ```
 Smart-Education-App/
-├── LICENSE
-├── README.md
-├── Team.md
-├── css/
-│   ├── alert.css
-│   ├── attendance.css
-│   ├── dashboard.css
-│   ├── index.css
-│   ├── planner.css
-│   ├── quiz.css
-│   └── signup.css
 ├── html/
 │   ├── alert.html
 │   ├── attendance.html
@@ -63,6 +52,14 @@ Smart-Education-App/
 │   ├── planner.html
 │   ├── quiz.html
 │   └── signup.html
+├── css/
+│   ├── alert.css
+│   ├── attendance.css
+│   ├── dashboard.css
+│   ├── index.css
+│   ├── planner.css
+│   ├── quiz.css
+│   └── signup.css
 └── js/
     ├── alert.js
     ├── attendance.js
@@ -71,6 +68,9 @@ Smart-Education-App/
     ├── planner.js
     ├── quiz.js
     └── signup.js
+├── LICENSE
+├── README.md
+├── Team.md
 
 ```
 
@@ -94,10 +94,11 @@ Smart-Education-App/
 
 | Member | Role |
 |--------|------|
-| **Krish Kumar** | Team Leader / Frontend Developer |
+| **Krish Kumar** | Frontend Developer (Team Leader)|
 | **Amit Chauhan** | UI Developer |
-| **Manish** | Design and Layout |
-| **Abhisek** | Documentation & Testing |
+| **Manish Yadav** | Design and Layout |
+| **Abhishek Yadav** | Documentation & Testing |
+| **Arvind Anand** | UI Developer |
 
 ---
 
