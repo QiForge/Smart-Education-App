@@ -105,7 +105,7 @@ Smart-Education-App/
 ## 🌐 Part of QiForge Organisation
 
 **QiForge** is a student-led tech organization focused on collaborative learning and innovation.  
-Visit: [qiforge.site](https://qiforge.site)
+Visit: [https://qiforge.org](https://qiforge.org)
 
 ---
 
