@@ -60,17 +60,17 @@ Smart-Education-App/
 │   ├── planner.css
 │   ├── quiz.css
 │   └── signup.css
-└── js/
-    ├── alert.js
-    ├── attendance.js
-    ├── dashboard.js
-    ├── index.js
-    ├── planner.js
-    ├── quiz.js
-    └── signup.js
+├── js/
+│   ├── alert.js
+│   ├── attendance.js
+│   ├── dashboard.js
+│   ├── index.js
+│   ├── planner.js
+│   ├── quiz.js
+│   └── signup.js
 ├── LICENSE
 ├── README.md
-├── Team.md
+└── Team.md
 
 ```
 
