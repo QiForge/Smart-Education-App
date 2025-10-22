@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/QiForge/QiForge-Website?style=for-the-badge)
 
 # 🎓 Smart Education System
 
