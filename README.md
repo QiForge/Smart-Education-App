@@ -6,7 +6,7 @@
 
 # 🎓 Smart Education System
 
-## 👨‍💻 A Mini Project by **Team Dragon (CSE B.Tech)**  
+## 👨‍💻 A Mini Project by **Team Code Dragon (CSE B.Tech)**  
 ### under **QiForge Organisation**
 
 ---
