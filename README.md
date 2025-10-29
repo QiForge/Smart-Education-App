@@ -103,7 +103,7 @@ Smart-Education-App/
 | **Krish Kumar** | Frontend Developer (Team Leader)|
 | **Amit Chauhan** | UI Developer |
 | **Manish Yadav** | Design and Layout |
-| **Abhishek Yadav** | Documentation & Testing |
+| **Abhishek Yadav** | Documentation |
 | **Arvind Anand** | UI Developer |
 
 ---
