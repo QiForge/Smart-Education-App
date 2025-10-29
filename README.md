@@ -117,7 +117,7 @@ Visit: [https://qiforge.org](https://qiforge.org)
 
 ## 🧩 License
 
-Released under the **MIT License**.  
+Released under the **QiForge Open Learning License (QOLL-1.0)**.  
 Feel free to fork, learn, and build upon this project.
 
 ---
