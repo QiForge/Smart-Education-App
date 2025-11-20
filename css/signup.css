@@ -113,3 +113,10 @@ select:focus {
         padding: 1.5rem;
     }
 }
+#login-btn{
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    text-decoration: none;
+    font-weight: 800;
+}
